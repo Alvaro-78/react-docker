@@ -1,0 +1,14 @@
+.loginBody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4em;
+    color: rgb(134,239,248);
+}
+
+.loginButton {
+    background-color: rgb(134,239,248);
+    border-radius: 5px;
+    width: 6em;
+    height: 2em;
+}

@@ -1,0 +1,6 @@
+header{
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+    color: rgb(134,239,248);
+}

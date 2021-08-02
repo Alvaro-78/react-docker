@@ -1,0 +1,19 @@
+.divForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+    margin-top: 4em;
+}
+
+.form {
+    align-items: center;
+    border: 2px grey solid;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 25em;
+    margin-top: 4em;
+    width: 20em;
+}
